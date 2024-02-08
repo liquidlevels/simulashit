@@ -1,0 +1,10 @@
+simulacion 1: python3 simulacion1.py
+simulacion 2: python3 simulacion2.py
+simulacion 3: python3 simulacion3.py
+simulacion 4: python3 simulacion4.py
+simulacion 5: python3 simulacion5.py --i 16.19 58.37 -n 20
+simulacion 6_1: python3 simulacion6_1.py --precio 200.20 --demanda 500 1000
+simulacion 6_2: python3 simulacion6_2.py --precio 102.20 --demanda 500 1000 --costos 16 20 24 --cfijo 20.20
+simulacion 7: python3 simulacion7.py
+simulacion 8: python3 simulacion8.py --palabra pericoalv
+simulacion 9: python3 simulacion9.py
